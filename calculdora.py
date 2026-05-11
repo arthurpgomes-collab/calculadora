@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 """
 Meu Primeiro Programa em Python
-Autor: [Seu Nome]
-Data: [Data de Hoje]
+Autor: arthur
+Data: 11/5
 Descrição: Programa básico para aprender GitHub
 """
 
